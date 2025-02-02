@@ -1,0 +1,10 @@
+.nav {
+  background-color: rgb(145, 113, 178);
+  padding: 10px;
+}
+
+.nav ul {
+  list-style: none;
+  display: flex;
+  justify-content: space-between;
+}
