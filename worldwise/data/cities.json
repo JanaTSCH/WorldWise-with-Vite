@@ -10,7 +10,7 @@
         "lat": 38.727881642324164,
         "lng": -9.140900099907554
       },
-      "id": 73930385
+      "id": "73930385"
     },
     {
       "cityName": "Madrid",
@@ -22,7 +22,7 @@
         "lat": 40.46635901755316,
         "lng": -3.7133789062500004
       },
-      "id": 17806751
+      "id": "17806751"
     },
     {
       "cityName": "Berlin",
@@ -34,7 +34,103 @@
         "lat": 52.53586782505711,
         "lng": 13.376933665713324
       },
-      "id": 98443197
+      "id": "98443197"
+    },
+    {
+      "id": "35b6",
+      "cityName": "Montreuil",
+      "country": "France",
+      "emoji": "🇫🇷",
+      "date": "2025-02-06T22:43:11.819Z",
+      "notes": "",
+      "position": {
+        "lat": "48.86676478151169",
+        "lng": "2.445620261561024"
+      }
+    },
+    {
+      "id": "0752",
+      "cityName": "London",
+      "country": "United Kingdom of Great Britain and Northern Ireland (the)",
+      "emoji": "🇬🇧",
+      "date": "2025-02-06T22:43:47.054Z",
+      "notes": "",
+      "position": {
+        "lat": "51.46901919682519",
+        "lng": "0.024738011020453143"
+      }
+    },
+    {
+      "id": "dedf",
+      "cityName": "Monaco",
+      "country": "Monaco",
+      "emoji": "🇲🇨",
+      "date": "2025-02-06T22:46:15.687Z",
+      "notes": "",
+      "position": {
+        "lat": "43.73967895108722",
+        "lng": "7.446245164201561"
+      }
+    },
+    {
+      "id": "c9d6",
+      "cityName": "Warsaw",
+      "country": "Poland",
+      "emoji": "🇵🇱",
+      "date": "2025-02-06T22:46:48.151Z",
+      "notes": "",
+      "position": {
+        "lat": "52.188420198881865",
+        "lng": "21.11904232783518"
+      }
+    },
+    {
+      "id": "eeec",
+      "cityName": "Vinsobres",
+      "country": "France",
+      "emoji": "🇫🇷",
+      "date": "2025-02-06T22:52:22.006Z",
+      "notes": "",
+      "position": {
+        "lat": "44.33956524809713",
+        "lng": "5.07994389010218"
+      }
+    },
+    {
+      "id": "8b48",
+      "cityName": "Vinsobres",
+      "country": "France",
+      "emoji": "🇫🇷",
+      "date": "2025-02-06T22:52:22.006Z",
+      "notes": "",
+      "position": {
+        "lat": "44.33956524809713",
+        "lng": "5.07994389010218"
+      }
+    },
+    {
+      "id": "41e4",
+      "cityName": "Saint-Agnant-de-Versillat",
+      "country": "France",
+      "emoji": "🇫🇷",
+      "date": "2025-02-06T22:52:39.598Z",
+      "notes": "",
+      "position": {
+        "lat": "46.28622391806708",
+        "lng": "1.4520765620339928"
+      }
+    },
+    {
+      "id": "d338",
+      "cityName": "Motreff",
+      "country": "France",
+      "emoji": "🇫🇷",
+      "date": "2025-02-06T22:57:08.991Z",
+      "notes": "",
+      "position": {
+        "lat": "48.22467264956519",
+        "lng": "-3.579163405355453"
+      }
     }
   ]
 }
