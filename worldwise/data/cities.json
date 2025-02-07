@@ -49,18 +49,6 @@
       }
     },
     {
-      "id": "0752",
-      "cityName": "London",
-      "country": "United Kingdom of Great Britain and Northern Ireland (the)",
-      "emoji": "🇬🇧",
-      "date": "2025-02-06T22:43:47.054Z",
-      "notes": "",
-      "position": {
-        "lat": "51.46901919682519",
-        "lng": "0.024738011020453143"
-      }
-    },
-    {
       "id": "dedf",
       "cityName": "Monaco",
       "country": "Monaco",
@@ -70,18 +58,6 @@
       "position": {
         "lat": "43.73967895108722",
         "lng": "7.446245164201561"
-      }
-    },
-    {
-      "id": "c9d6",
-      "cityName": "Warsaw",
-      "country": "Poland",
-      "emoji": "🇵🇱",
-      "date": "2025-02-06T22:46:48.151Z",
-      "notes": "",
-      "position": {
-        "lat": "52.188420198881865",
-        "lng": "21.11904232783518"
       }
     }
   ]
