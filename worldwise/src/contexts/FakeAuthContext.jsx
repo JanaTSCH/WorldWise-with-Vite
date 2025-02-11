@@ -26,6 +26,13 @@ function reducer(state, action) {
   }
 }
 
+const FAKE_USER = {
+  name: "John",
+  email: "john@example.com",
+  password: "qwerty1234",
+  avatar: "https://i.pravatar.cc/100?u=zz",
+};
+
 function AuthProvider({ children }) {
   const [{ user, isAuthenticated }, dispatch] = useReducer(
     reducer,
